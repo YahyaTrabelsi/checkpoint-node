@@ -1,4 +1,4 @@
-var mymodule = require('./06-mymodule');
+var mymodule = require('./mymodule');
 
 var directory = process.argv[2]  
 var ext = process.argv[3];
